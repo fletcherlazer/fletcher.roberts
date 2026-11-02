@@ -4,8 +4,8 @@ project:
 
 website:
   title: "Fletcher Roberts"
-  description: "Business analytics, real estate & finance portfolio"
-  site-url: https://YOUR-USERNAME.github.io
+  description: "Business Analytics, portfolio"
+  site-url: https://fletcher.roberts.github.io
   navbar:
     background: primary
     left:
@@ -21,9 +21,9 @@ website:
         text: Education
     right:
       - icon: linkedin
-        href: https://www.linkedin.com/in/YOUR-LINKEDIN
+        href: https://www.linkedin.com/in/fletcher-roberts
       - icon: github
-        href: https://github.com/YOUR-USERNAME
+        href: https://github.com/fletcherlazer
       - icon: envelope
         href: mailto:YOUR-EMAIL
   page-footer:
