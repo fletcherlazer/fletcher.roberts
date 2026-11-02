@@ -8,7 +8,7 @@ subtitle: "What I learned, not just where I studied"
 ::: {.g-col-12 .g-col-md-6 .edu-card}
 ### 🎓 University of Denver
 **Daniels College of Business**
-B.S. Business Information & Analytics · Minor in Finance
+B.S. Business Information & Analytics ·
 Expected June 2027
 :::
 
