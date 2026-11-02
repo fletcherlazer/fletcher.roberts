@@ -1,0 +1,11 @@
+---
+title: "Projects"
+subtitle: "Class, internship, and personal work: the problem, my approach, and the result"
+listing:
+  contents: projects/*.qmd
+  type: grid
+  grid-columns: 2
+  sort: "date desc"
+  fields: [image, title, description, categories]
+  categories: true
+---

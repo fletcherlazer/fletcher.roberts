@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs   # GitHub Pages: Settings > Pages > Branch: main, folder: /docs
+
+website:
+  title: "Fletcher Roberts"
+  description: "Business analytics, real estate & finance portfolio"
+  site-url: https://YOUR-USERNAME.github.io
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: skills.qmd
+        text: Skills
+      - href: projects.qmd
+        text: Projects
+      - href: experience.qmd
+        text: Experience
+      - href: education.qmd
+        text: Education
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/YOUR-LINKEDIN
+      - icon: github
+        href: https://github.com/YOUR-USERNAME
+      - icon: envelope
+        href: mailto:YOUR-EMAIL
+  page-footer:
+    center: "© 2026 Fletcher Roberts · Denver, CO · Built with Quarto"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false

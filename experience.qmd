@@ -1,0 +1,43 @@
+---
+title: "Work Experience"
+subtitle: "What I did, what I used, and what I learned"
+---
+
+::: {.job-card}
+## Standish Management
+**Fund Administration Intern** · Summer 2026 · <!-- EDIT: City, ST -->
+
+<!-- EDIT: 1–2 sentences on what Standish does and what your team handled -->
+Standish Management provides <!-- EDIT -->. I worked on the <!-- EDIT: team --> team supporting the administration of investment funds.
+
+### What I worked on
+<!-- EDIT: replace with your real projects/tasks. Use action verbs + specifics + results. -->
+- **[Project or task]**: what you did and why it mattered
+- **[Project or task]**: what you did and why it mattered
+- **[Project or task]**: what you did and why it mattered
+
+### Accomplishments
+<!-- EDIT: numbers help a lot, e.g., "reconciled 40+ accounts per month", "cut a weekly report from 3 hours to 1" -->
+-
+-
+
+### Technologies used
+<!-- EDIT --> `Excel` · `[fund admin software]` · `[other tools]`
+
+### Skills I put to work
+**Attention to detail**, because investor-facing numbers have to be right. Also <!-- EDIT: communication, time management, learning a new industry fast... -->
+
+[See related projects →](projects.qmd){.btn .btn-outline-primary .btn-sm}
+:::
+
+<!-- EDIT: Copy the block above for other jobs (part-time work, campus jobs, earlier internships).
+     Non-finance jobs still count: they show reliability, customer skills, and work ethic. -->
+
+::: {.job-card}
+## [Company Name]
+**[Role]** · [Dates] · [City, ST]
+
+- What you did
+- What you accomplished
+- Skills you used
+:::

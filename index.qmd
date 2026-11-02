@@ -1,0 +1,67 @@
+---
+title: "Fletcher Roberts"
+subtitle: "Business Analytics · Real Estate · Finance"
+image: images/headshot.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:YOUR-EMAIL
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/YOUR-LINKEDIN
+    - icon: file-earmark-pdf
+      text: Resume
+      href: files/Fletcher-Roberts-Resume.pdf
+    - icon: geo-alt
+      text: Denver, CO
+      href: https://www.google.com/maps/place/Denver,+CO
+---
+
+::: {.brand-statement}
+I turn real estate and financial data into clear, confident decisions, combining the precision of fund administration with the curiosity of an analyst.
+:::
+
+## About Me
+
+I'm a student at the University of Denver's Daniels College of Business, earning a B.S. in Business Information & Analytics with a minor in Finance (expected June 2027). I'm also enrolled in a Real Estate master's program. My work sits where three fields meet: **data, finance, and real estate**. I like taking a messy spreadsheet or a raw dataset and turning it into an answer someone can act on.
+
+<!-- EDIT: 1–2 sentences on what got you into real estate / analytics. A real story beats a generic one. -->
+
+## What I'm Looking For
+
+<!-- EDIT: Be specific — role types, industries, timing. Example: -->
+I'm seeking **[full-time / internship] roles beginning [month year]** in **[real estate investment analysis, fund accounting, financial analytics]**, where I can use data to support investment and operational decisions.
+
+## Highlights
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .highlight-card}
+### 📊 Excel Expert
+Microsoft Office Specialist: **Excel Expert** certified. I'm comfortable with advanced formulas, PivotTables, and financial models.
+:::
+
+::: {.g-col-12 .g-col-md-6 .highlight-card}
+### 🏢 Fund Administration
+**Intern at Standish Management** (Summer 2026). <!-- EDIT: one standout accomplishment --> I worked on the operational side of investment funds.
+:::
+
+::: {.g-col-12 .g-col-md-6 .highlight-card}
+### 🌍 Global Perspective
+Studied abroad in **Prague, Czech Republic** (Fall 2025). <!-- EDIT: what you took away from it -->
+:::
+
+::: {.g-col-12 .g-col-md-6 .highlight-card}
+### 🏠 Real Estate Graduate Study
+Enrolled in a **Real Estate master's program** alongside my undergraduate degree, building depth in valuation, investment analysis, and real estate finance. <!-- EDIT: program name -->
+:::
+
+:::
+
+## Explore My Work
+
+[Projects →](projects.qmd){.btn .btn-primary} [Skills →](skills.qmd){.btn .btn-outline-primary} [Experience →](experience.qmd){.btn .btn-outline-primary}

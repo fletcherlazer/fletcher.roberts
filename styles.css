@@ -1,0 +1,57 @@
+/* Personal brand statement: big, prominent, first thing people read */
+.brand-statement {
+  font-size: 1.35rem;
+  font-weight: 500;
+  line-height: 1.5;
+  border-left: 5px solid #18bc9c;
+  background: #f4fbf9;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0 2rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+/* Highlight cards on the home page */
+.highlight-card {
+  border: 1px solid #e3e7ea;
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.highlight-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
+}
+.highlight-card h3 {
+  margin-top: 0.25rem;
+  font-size: 1.15rem;
+}
+
+.btn { margin: 0.25rem 0.4rem 0.25rem 0; }
+
+/* Shared card look for skills / education / jobs */
+.skill-card, .edu-card, .job-card {
+  border: 1px solid #e3e7ea;
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+.skill-card h3, .edu-card h3 { margin-top: 0.25rem; font-size: 1.15rem; }
+.job-card { margin-bottom: 2rem; padding: 1.25rem 1.5rem; }
+.job-card h2 { margin-top: 0; border-bottom: none; }
+
+/* Skill level badges */
+.level {
+  font-size: 0.7rem; font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.04em; padding: 0.2rem 0.55rem; border-radius: 999px;
+  vertical-align: middle; margin-left: 0.4rem;
+}
+.level-adv { background: #18bc9c; color: white; }
+.level-pro { background: #3498db; color: white; }
+.level-dev { background: #f39c12; color: white; }
+
+/* 14ers progress bar */
+.peak-progress { margin: 1rem 0 1.5rem 0; }
+.progress-label { margin-bottom: 0.35rem; font-size: 1.05rem; }
+.progress-track { background: #e9ecef; border-radius: 999px; height: 18px; overflow: hidden; }
+.progress-fill { background: linear-gradient(90deg, #18bc9c, #2c3e50); height: 100%; border-radius: 999px; }

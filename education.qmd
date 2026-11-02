@@ -1,0 +1,64 @@
+---
+title: "Education"
+subtitle: "What I learned, not just where I studied"
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .edu-card}
+### 🎓 University of Denver
+**Daniels College of Business**
+B.S. Business Information & Analytics · Minor in Finance
+Expected June 2027
+:::
+
+::: {.g-col-12 .g-col-md-6 .edu-card}
+### 🏢 Real Estate Master's Program
+<!-- EDIT: official program name, school, expected completion -->
+Graduate study in real estate, alongside my undergraduate degree.
+:::
+
+::: {.g-col-12 .g-col-md-6 .edu-card}
+### 🌍 Semester Abroad: Prague
+Fall 2025 · <!-- EDIT: host university -->
+<!-- EDIT: courses taken or what you learned -->
+:::
+
+::: {.g-col-12 .g-col-md-6 .edu-card}
+### 📜 Certification
+**Microsoft Office Specialist: Excel Expert**
+<!-- EDIT: year earned -->
+:::
+
+:::
+
+## Key Courses
+
+<!-- EDIT: Fill in real course numbers/names. For each: concepts, techniques, tools.
+     Don't forget stats, accounting, and finance courses, not just analytics. -->
+
+### Data Visualization & Intro to Machine Learning
+<!-- EDIT: course number, confirm name -->
+**What I learned:** designing charts that tell a clear story, <!-- EDIT: ML concepts, e.g., regression, classification, model evaluation -->
+**Tools:** Python, Quarto, Git/GitHub. This website is one of the course projects.
+
+### Real Estate Finance
+**What I learned:** time value of money, <!-- EDIT: mortgage math, NPV/IRR, property valuation, cap rates -->
+**Tools:** financial calculator, Excel
+
+### Introduction to Python
+**What I learned:** <!-- EDIT: data types, loops, functions, pandas basics -->
+**Tools:** Python, Jupyter
+
+### Statistics
+<!-- EDIT: course name -->
+**What I learned:** <!-- EDIT: hypothesis testing, regression, distributions, confidence intervals -->
+**Tools:** <!-- EDIT: Excel, R, Python? -->
+
+### Accounting
+<!-- EDIT: course name(s) -->
+**What I learned:** <!-- EDIT: financial statements, journal entries, managerial accounting. These tie directly to fund administration. -->
+
+### Finance
+<!-- EDIT: course name(s) from your minor -->
+**What I learned:** <!-- EDIT: corporate finance, valuation, investments, portfolio theory -->

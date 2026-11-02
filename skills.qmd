@@ -1,0 +1,71 @@
+---
+title: "Skills"
+subtitle: "What I bring to an analytics, finance, or real estate team"
+---
+
+<!-- EDIT: Adjust proficiency labels so they're honest. "Learning" is fine — it shows growth. -->
+
+## Technical Skills
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .skill-card}
+### 📊 Microsoft Excel <span class="level level-adv">Advanced</span>
+**Microsoft Office Specialist: Excel Expert certified.** Excel is my home base for financial work: PivotTables, lookup functions (XLOOKUP / INDEX-MATCH), conditional logic, data validation, and building models that other people can actually follow.
+
+<!-- EDIT: add one specific example, e.g., "built a reconciliation workbook during my internship that..." -->
+:::
+
+::: {.g-col-12 .g-col-md-6 .skill-card}
+### 🐍 Python <span class="level level-dev">Developing</span>
+Data cleaning and analysis with **pandas**, and charts with **matplotlib**/**seaborn**. I'm building these skills through an intro Python course and applied class projects.
+
+<!-- EDIT: list the libraries you've actually used -->
+:::
+
+::: {.g-col-12 .g-col-md-6 .skill-card}
+### 📈 Data Visualization <span class="level level-pro">Proficient</span>
+I design charts that answer a business question rather than just display data. I build reports and this website with **Quarto**.
+
+<!-- EDIT: Tableau / Power BI? Add them if you've used them. -->
+:::
+
+::: {.g-col-12 .g-col-md-6 .skill-card}
+### 🤖 Machine Learning <span class="level level-dev">Developing</span>
+Foundations from my intro machine learning course: [concepts you learned] <!-- EDIT: e.g., regression, classification, train/test splits, model evaluation -->.
+:::
+
+::: {.g-col-12 .g-col-md-6 .skill-card}
+### 🏢 Real Estate Finance <span class="level level-pro">Proficient</span>
+Time value of money, cash flow analysis, and property valuation concepts from my real estate finance coursework and master's program.
+
+<!-- EDIT: NPV/IRR, cap rates, DCF, loan amortization — keep only what you can talk about in an interview -->
+:::
+
+::: {.g-col-12 .g-col-md-6 .skill-card}
+### 💼 Fund Administration <span class="level level-pro">Proficient</span>
+I got hands-on exposure to the back office of investment funds during my internship at Standish Management.
+
+<!-- EDIT: e.g., capital calls/distributions, reconciliations, investor reporting, NAV support, software used -->
+:::
+
+:::
+
+## Professional Skills
+
+I'd rather show these with examples than claim them.
+
+**Attention to detail.** In fund administration, a small error in a number reaches investors. <!-- EDIT: a moment where you caught something or double-checked work -->
+
+**Time management.** I balance an undergraduate degree, a real estate master's program, and professional work. <!-- EDIT: how you stay on top of it, with a specific example -->
+
+**Adaptability.** Living and studying in Prague for a semester meant adjusting quickly to a new country, culture, and way of learning. <!-- EDIT: a specific example -->
+
+**Communication.** [Your example] <!-- EDIT: presentations, group projects, explaining data to non-technical people -->
+
+**Teamwork.** [Your example] <!-- EDIT: a team project and your role in it -->
+
+## Tools at a Glance
+
+<!-- EDIT: delete anything you haven't used -->
+`Excel` · `Python` · `pandas` · `matplotlib` · `Jupyter` · `Quarto` · `Git & GitHub` · `PowerPoint` · `Financial calculator`
