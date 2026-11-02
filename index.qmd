@@ -1,7 +1,7 @@
 ---
 title: "Fletcher Roberts"
 subtitle: "Business Analytics · Real Estate · Finance"
-image: images/headshot.jpg
+image: image: headshot.jpg
 about:
   template: trestles
   image-shape: round
