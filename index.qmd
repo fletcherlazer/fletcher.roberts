@@ -15,7 +15,7 @@ about:
       href: https://www.linkedin.com/in/fletcher-roberts
     - icon: file-earmark-pdf
       text: Resume
-      href: Fletcher-Roberts-Resume.pdf
+      href: https://fletcherlazer.github.io/YOUR-REPO-NAME/Fletcher-Roberts-Resume.pdf
     - icon: geo-alt
       text: Denver, CO
       href: https://www.google.com/maps/place/Denver,+CO
