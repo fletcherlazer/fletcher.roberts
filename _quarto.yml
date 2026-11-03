@@ -1,11 +1,10 @@
 project:
   type: website
-  output-dir: docs   # GitHub Pages: Settings > Pages > Branch: main, folder: /docs
+  output-dir: docs
 
 website:
   title: "Fletcher Roberts"
-  description: "Business Analytics, portfolio"
-  site-url: https://fletcher.roberts.github.io
+  description: "Business analytics, real estate & finance portfolio"
   navbar:
     background: primary
     left:
@@ -25,7 +24,7 @@ website:
       - icon: github
         href: https://github.com/fletcherlazer
       - icon: envelope
-        href: mailto:YOUR-EMAIL
+        href: mailto:fletcher.roberts@du.edu
   page-footer:
     center: "© 2026 Fletcher Roberts · Denver, CO · Built with Quarto"
 
