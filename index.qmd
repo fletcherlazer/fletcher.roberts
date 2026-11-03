@@ -9,13 +9,13 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:YOUR-EMAIL
+      href: mailto:fletcher.roberts@du.edu
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/YOUR-LINKEDIN
+      href: https://www.linkedin.com/in/fletcher-roberts
     - icon: file-earmark-pdf
       text: Resume
-      href: files/Fletcher-Roberts-Resume.pdf
+      href: Fletcher-Roberts-Resume.pdf
     - icon: geo-alt
       text: Denver, CO
       href: https://www.google.com/maps/place/Denver,+CO
