@@ -1,43 +1,76 @@
 ---
 title: "Work Experience"
-subtitle: "What I did, what I used, and what I learned"
+subtitle: "What I did, what I used, and what I took from it"
 ---
 
 ::: {.job-card}
 ## Standish Management
-**Fund Administration Intern** · Summer 2026 · <!-- EDIT: City, ST -->
+**Fund Administration Intern** · Summer 2026 · Denver, CO
 
-<!-- EDIT: 1–2 sentences on what Standish does and what your team handled -->
-Standish Management provides <!-- EDIT -->. I worked on the <!-- EDIT: team --> team supporting the administration of investment funds.
+Standish Management provides fund administration services. My work supported a private investment firm with **more than $30 billion in assets under management**.
 
 ### What I worked on
-<!-- EDIT: replace with your real projects/tasks. Use action verbs + specifics + results. -->
-- **[Project or task]**: what you did and why it mattered
-- **[Project or task]**: what you did and why it mattered
-- **[Project or task]**: what you did and why it mattered
-
-### Accomplishments
-<!-- EDIT: numbers help a lot, e.g., "reconciled 40+ accounts per month", "cut a weekly report from 3 hours to 1" -->
--
--
+- **Capital calls and distributions:** compiled and reconciled LP allocation data, recorded cash journal entries in Allvue, and prepared bank reconciliations so each investor's share was right before money moved.
+- **Blocker entity roll-forward:** rolled annual blocker entity workbooks into the new year, updating hundreds of formulas across dozens of linked files without breaking the links between them.
+- **Management fees:** revised the management fee schedules for the general partner.
+- **Financial statement review:** reviewed and marked up unaudited quarterly financial statements before they went to senior review.
 
 ### Technologies used
-<!-- EDIT --> `Excel` · `[fund admin software]` · `[other tools]`
+`Allvue` · `Excel`
 
 ### Skills I put to work
-**Attention to detail**, because investor-facing numbers have to be right. Also <!-- EDIT: communication, time management, learning a new industry fast... -->
+Attention to detail, accuracy under quarterly deadlines, and learning complex fund structures quickly.
 
-[See related projects →](projects.qmd){.btn .btn-outline-primary .btn-sm}
+### Why it matters for my career
+I saw real estate and private equity from the investor's side: how capital gets called, allocated, and returned. The projects I'll build will be funded by investors like the LPs I reconciled, and I'll understand what they're watching for.
+
+[See my real estate project →](projects/retail-acquisition.qmd){.btn .btn-outline-primary .btn-sm}
 :::
 
-<!-- EDIT: Copy the block above for other jobs (part-time work, campus jobs, earlier internships).
-     Non-finance jobs still count: they show reliability, customer skills, and work ethic. -->
+::: {.job-card}
+## Red Arrow Camp
+**Counselor** · June – August 2025 · Woodruff, WI
+
+The closest thing I've done to field management. I was responsible for a group of eight 12-year-olds, including on multi-day wilderness trips far from any backup.
+
+- **Led multi-day excursions:** managed schedules, safety protocols, and camper engagement while following established procedures and organizational policies.
+- **Kept records accurate:** documented attendance, daily activities, and program logistics so everyone stayed accountable and informed in a fast-paced environment.
+
+**Skills I put to work:** leadership, risk management, planning and logistics, and communication with campers, staff, and parents.
+:::
 
 ::: {.job-card}
-## [Company Name]
-**[Role]** · [Dates] · [City, ST]
+## Quail Creek Golf & Country Club
+**Lifeguard** · May – September 2023 · Oklahoma City, OK
 
-- What you did
-- What you accomplished
-- Skills you used
+- Monitored pool operations to ensure compliance with safety regulations, policies, and procedures.
+- Documented issues and communicated them clearly to supervisors when necessary.
+
+**Skills I put to work:** a safety-first mindset, staying alert and accountable, and clear communication.
+:::
+
+## Leadership & Involvement
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .edu-card}
+### Beta Theta Pi
+**Finance Committee** · Fall 2025 – Present
+:::
+
+::: {.g-col-12 .g-col-md-6 .edu-card}
+### DU Real Estate Club
+**Member** · Fall 2026 – Present
+:::
+
+::: {.g-col-12 .g-col-md-6 .edu-card}
+### Special Olympics Colorado
+**Philanthropy Committee** · Spring 2025 – Present
+:::
+
+::: {.g-col-12 .g-col-md-6 .edu-card}
+### Northern Lights Foundation
+**Volunteer** · Fall 2025 – Present
+:::
+
 :::

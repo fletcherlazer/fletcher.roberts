@@ -1,6 +1,6 @@
 ---
 title: "Fletcher Roberts"
-subtitle: "Business Analytics · Real Estate · Finance"
+subtitle: "Construction Management · Real Estate · Analytics"
 image: headshot.jpg
 about:
   template: trestles
@@ -22,46 +22,47 @@ about:
 ---
 
 ::: {.brand-statement}
-I turn real estate and financial data into clear, confident decisions, combining the precision of fund administration with the curiosity of an analyst.
+Future construction manager with an analyst's toolkit: I want to be on site, working with people and watching real projects come together, and I bring data to every decision along the way.
 :::
 
 ## About Me
 
-I'm a student at the University of Denver's Daniels College of Business, earning a B.S. in Business Information & Analytics with a minor in Finance (expected June 2027). I'm also enrolled in a Real Estate master's program. My work sits where three fields meet: **data, finance, and real estate**. I like taking a messy spreadsheet or a raw dataset and turning it into an answer someone can act on.
+I'm a Business Information & Analytics student at the University of Denver's Daniels College of Business, continuing into DU's **M.S. in Real Estate and the Built Environment** through the 4+1 program, with a concentration in **construction management**.
 
-<!-- EDIT: 1–2 sentences on what got you into real estate / analytics. A real story beats a generic one. -->
+I'm drawn to the field because I want to work with people and watch a real project come together, from the first day on site to the finished building. My plan is to start my career as a project and construction manager, learn how buildings actually get built, and after a few years bring that field experience back into the office.
+
+Along the way, I lean on data. Excel, Python, SQL, and R help me analyze projects and make decisions I can back up.
 
 ## What I'm Looking For
 
-<!-- EDIT: Be specific — role types, industries, timing. Example: -->
-I'm seeking **[full-time / internship] roles beginning [month year]** in **[real estate investment analysis, fund accounting, financial analytics]**, where I can use data to support investment and operational decisions.
+A **summer 2027 internship with a general contractor**, ideally in residential construction, where I can learn the craft alongside experienced tradespeople. After I finish my master's in 2028, I'm aiming for **project engineer and assistant project manager** roles on the path to construction management.
 
 ## Highlights
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6 .highlight-card}
-### 📊 Excel Expert
-Microsoft Office Specialist: **Excel Expert** certified. I'm comfortable with advanced formulas, PivotTables, and financial models.
+### 🏗️ Construction Management
+Official concentration in DU's 4+1 **M.S. in Real Estate and the Built Environment** (expected June 2028).
 :::
 
 ::: {.g-col-12 .g-col-md-6 .highlight-card}
-### 🏢 Fund Administration
-**Intern at Standish Management** (Summer 2026). <!-- EDIT: one standout accomplishment --> I worked on the operational side of investment funds.
+### 📐 Real-World Pro Forma
+Underwrote a Denver retail acquisition from rent roll to levered, after-tax returns, and found the asking price was about **$720K too high**. [See the project →](projects/retail-acquisition.qmd)
 :::
 
 ::: {.g-col-12 .g-col-md-6 .highlight-card}
-### 🌍 Global Perspective
-Studied abroad in **Prague, Czech Republic** (Fall 2025). <!-- EDIT: what you took away from it -->
+### 💼 Fund Administration
+Interned at **Standish Management**, supporting capital calls and distributions for a private investment firm with **$30B+ in AUM**. I've seen how investor capital funds projects.
 :::
 
 ::: {.g-col-12 .g-col-md-6 .highlight-card}
-### 🏠 Real Estate Graduate Study
-Enrolled in a **Real Estate master's program** alongside my undergraduate degree, building depth in valuation, investment analysis, and real estate finance. <!-- EDIT: program name -->
+### 🧭 Field Leadership
+Led multi-day backcountry trips for eight campers, responsible for **safety, schedules, and logistics** far from any office.
 :::
 
 :::
 
 ## Explore My Work
 
-[Projects →](projects.qmd){.btn .btn-primary} [Skills →](skills.qmd){.btn .btn-outline-primary} [Experience →](experience.qmd){.btn .btn-outline-primary}
+[Projects →](projects.qmd){.btn .btn-primary} [Experience →](experience.qmd){.btn .btn-outline-primary} [Skills →](skills.qmd){.btn .btn-outline-primary}

@@ -8,57 +8,61 @@ subtitle: "What I learned, not just where I studied"
 ::: {.g-col-12 .g-col-md-6 .edu-card}
 ### 🎓 University of Denver
 **Daniels College of Business**
-B.S. Business Information & Analytics ·
-Expected June 2027
+B.S. Business Information & Analytics
+Fall 2023 – June 2027 · **GPA 3.61**
 :::
 
 ::: {.g-col-12 .g-col-md-6 .edu-card}
-### 🏢 Real Estate Master's Program
-<!-- EDIT: official program name, school, expected completion -->
-Graduate study in real estate, alongside my undergraduate degree.
+### 🏗️ University of Denver
+**M.S. Real Estate and the Built Environment** (4+1)
+Concentration: Construction Management
+Expected June 2028
 :::
 
 ::: {.g-col-12 .g-col-md-6 .edu-card}
-### 🌍 Semester Abroad: Prague
-Fall 2025 · <!-- EDIT: host university -->
-<!-- EDIT: courses taken or what you learned -->
+### 🌍 Prague University of Economics and Business
+**Semester Abroad** · Fall 2025
+Prague, Czech Republic
 :::
 
 ::: {.g-col-12 .g-col-md-6 .edu-card}
 ### 📜 Certification
-**Microsoft Office Specialist: Excel Expert**
-<!-- EDIT: year earned -->
+**Microsoft Office Specialist (MOS): Excel Expert**
 :::
 
 :::
 
 ## Key Courses
 
-<!-- EDIT: Fill in real course numbers/names. For each: concepts, techniques, tools.
-     Don't forget stats, accounting, and finance courses, not just analytics. -->
+### Income Property Finance
+**What I learned:** how to underwrite an income-producing property from start to finish. Our team built a full pro forma covering the rent roll and NOI schedule, unlevered and levered cash flows, depreciation and tax on sale, loan sizing with LTV, DSCR, and debt-yield tests, and sensitivity analysis to find a walk-away price.
+**Tools:** Excel, CoStar
+[See the project →](projects/retail-acquisition.qmd){.btn .btn-outline-primary .btn-sm}
+
+### Automating Business Processes
+**What I learned:** using Python to clean, combine, and analyze business data, including merging datasets, descriptive statistics, grouped analysis, correlation, and visualization.
+**Tools:** Python, pandas, NumPy, matplotlib, Jupyter
+[See the project →](projects/guide-pricing-analysis.qmd){.btn .btn-outline-primary .btn-sm}
 
 ### Data Visualization & Intro to Machine Learning
-<!-- EDIT: course number, confirm name -->
-**What I learned:** designing charts that tell a clear story, <!-- EDIT: ML concepts, e.g., regression, classification, model evaluation -->
-**Tools:** Python, Quarto, Git/GitHub. This website is one of the course projects.
-
-### Real Estate Finance
-**What I learned:** time value of money, <!-- EDIT: mortgage math, NPV/IRR, property valuation, cap rates -->
-**Tools:** financial calculator, Excel
+**What I learned:** designing visualizations that communicate a clear message, and the foundations of machine learning.
+**Tools:** Python, Quarto, Git & GitHub. This website is one of the course projects.
 
 ### Introduction to Python
-**What I learned:** <!-- EDIT: data types, loops, functions, pandas basics -->
-**Tools:** Python, Jupyter
+**What I learned:** Python fundamentals for working with data.
+**Tools:** Python
 
-### Statistics
-<!-- EDIT: course name -->
-**What I learned:** <!-- EDIT: hypothesis testing, regression, distributions, confidence intervals -->
-**Tools:** <!-- EDIT: Excel, R, Python? -->
+### Semester in Prague
+**International Finance, International Management, and International Marketing**, plus **Intensive Czech**. These courses showed me how business, markets, and management change across borders.
 
-### Accounting
-<!-- EDIT: course name(s) -->
-**What I learned:** <!-- EDIT: financial statements, journal entries, managerial accounting. These tie directly to fund administration. -->
+<!-- EDIT: Add your statistics and accounting courses here (the assignment specifically asks about stats). Use the same format:
+### Course Name
+**What I learned:** ...
+**Tools:** ...
+-->
 
-### Finance
-<!-- EDIT: course name(s) from your minor -->
-**What I learned:** <!-- EDIT: corporate finance, valuation, investments, portfolio theory -->
+## Academic Projects
+
+- **SQL Database Project:** a six-table relational database for a mountain guide service. [Full write-up →](projects/guide-service-database.qmd)
+- **Python Database Project** <!-- EDIT: add a short description -->
+- **Income Property Pro Forma:** [full write-up →](projects/retail-acquisition.qmd)

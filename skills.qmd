@@ -1,9 +1,9 @@
 ---
 title: "Skills"
-subtitle: "What I bring to an analytics, finance, or real estate team"
+subtitle: "The tools and habits I bring to a project team"
 ---
 
-<!-- EDIT: Adjust proficiency labels so they're honest. "Learning" is fine — it shows growth. -->
+<!-- EDIT: adjust any level that doesn't feel honest. "Developing" is fine; it shows growth. -->
 
 ## Technical Skills
 
@@ -11,61 +11,50 @@ subtitle: "What I bring to an analytics, finance, or real estate team"
 
 ::: {.g-col-12 .g-col-md-6 .skill-card}
 ### 📊 Microsoft Excel <span class="level level-adv">Advanced</span>
-**Microsoft Office Specialist: Excel Expert certified.** Excel is my home base for financial work: PivotTables, lookup functions (XLOOKUP / INDEX-MATCH), conditional logic, data validation, and building models that other people can actually follow.
-
-<!-- EDIT: add one specific example, e.g., "built a reconciliation workbook during my internship that..." -->
-:::
-
-::: {.g-col-12 .g-col-md-6 .skill-card}
-### 🐍 Python <span class="level level-dev">Developing</span>
-Data cleaning and analysis with **pandas**, and charts with **matplotlib**/**seaborn**. I'm building these skills through an intro Python course and applied class projects.
-
-<!-- EDIT: list the libraries you've actually used -->
-:::
-
-::: {.g-col-12 .g-col-md-6 .skill-card}
-### 📈 Data Visualization <span class="level level-pro">Proficient</span>
-I design charts that answer a business question rather than just display data. I build reports and this website with **Quarto**.
-
-<!-- EDIT: Tableau / Power BI? Add them if you've used them. -->
-:::
-
-::: {.g-col-12 .g-col-md-6 .skill-card}
-### 🤖 Machine Learning <span class="level level-dev">Developing</span>
-Foundations from my intro machine learning course: [concepts you learned] <!-- EDIT: e.g., regression, classification, train/test splits, model evaluation -->.
+**Microsoft Office Specialist: Excel Expert certified.** Excel is where I do most of my analysis. At Standish Management, I rolled forward annual blocker entity workbooks, updating hundreds of formulas across dozens of linked files. In Income Property Finance, I helped build a [full acquisition pro forma](projects/retail-acquisition.qmd) from scratch.
 :::
 
 ::: {.g-col-12 .g-col-md-6 .skill-card}
 ### 🏢 Real Estate Finance <span class="level level-pro">Proficient</span>
-Time value of money, cash flow analysis, and property valuation concepts from my real estate finance coursework and master's program.
-
-<!-- EDIT: NPV/IRR, cap rates, DCF, loan amortization — keep only what you can talk about in an interview -->
+NOI schedules, cap rates, discounted cash flow, IRR and NPV, loan sizing (LTV, DSCR, debt yield), depreciation and tax on sale, and sensitivity analysis. I can tell an owner not just what a property returns, but what they should pay for it.
 :::
 
 ::: {.g-col-12 .g-col-md-6 .skill-card}
-### 💼 Fund Administration <span class="level level-pro">Proficient</span>
-I got hands-on exposure to the back office of investment funds during my internship at Standish Management.
+### 💼 Fund Accounting <span class="level level-pro">Proficient</span>
+Hands-on experience from my internship: LP allocations, capital calls and distributions, cash journal entries in **Allvue**, bank reconciliations, management fee schedules, and reviewing quarterly financial statements.
+:::
 
-<!-- EDIT: e.g., capital calls/distributions, reconciliations, investor reporting, NAV support, software used -->
+::: {.g-col-12 .g-col-md-6 .skill-card}
+### 🐍 Python <span class="level level-dev">Developing</span>
+Data analysis with **pandas**, **NumPy**, and **matplotlib**: merging datasets, grouped summaries, correlation analysis, and charts. See my [trip pricing analysis](projects/guide-pricing-analysis.qmd) from *Automating Business Processes*.
+:::
+
+::: {.g-col-12 .g-col-md-6 .skill-card}
+### 🗄️ SQL <span class="level level-dev">Developing</span>
+I designed a [six-table relational database](projects/guide-service-database.qmd) with primary keys, foreign keys, and a junction table, then wrote queries using multi-table joins, aggregation, subqueries, and derived tables to answer business questions.
+:::
+
+::: {.g-col-12 .g-col-md-6 .skill-card}
+### 📈 Data Visualization <span class="level level-dev">Developing</span>
+I build reports and this website with **Quarto**, with a focus on charts that answer a question instead of just displaying data.
 :::
 
 :::
 
 ## Professional Skills
 
-I'd rather show these with examples than claim them.
+**Working with people.** It's the reason I want to be in the field. As a camp counselor, I was responsible for eight 12-year-olds on multi-day wilderness trips. That meant keeping a group engaged, safe, and moving in the same direction.
 
-**Attention to detail.** In fund administration, a small error in a number reaches investors. <!-- EDIT: a moment where you caught something or double-checked work -->
+**Attention to detail.** At Standish, I reviewed and marked up unaudited quarterly financial statements before senior review, and reconciled LP allocation data where every dollar has to tie out.
 
-**Time management.** I balance an undergraduate degree, a real estate master's program, and professional work. <!-- EDIT: how you stay on top of it, with a specific example -->
+**Safety and procedures.** As a lifeguard and a counselor, my job was to follow safety protocols every time, with no shortcuts. That's the same mindset a jobsite demands.
 
-**Adaptability.** Living and studying in Prague for a semester meant adjusting quickly to a new country, culture, and way of learning. <!-- EDIT: a specific example -->
+**Teamwork.** I worked through every stage of our team's eight-part pro forma, from the rent roll to the final walk-away price.
 
-**Communication.** [Your example] <!-- EDIT: presentations, group projects, explaining data to non-technical people -->
+**Adaptability.** I spent a semester at the Prague University of Economics and Business, including intensive Czech. I learned quickly how to operate somewhere unfamiliar.
 
-**Teamwork.** [Your example] <!-- EDIT: a team project and your role in it -->
+**Time management.** I balance the 4+1 program, professional work, and committee roles in Beta Theta Pi and Special Olympics Colorado.
 
 ## Tools at a Glance
 
-<!-- EDIT: delete anything you haven't used -->
-`Excel` · `Python` · `pandas` · `matplotlib` · `Jupyter` · `Quarto` · `Git & GitHub` · `PowerPoint` · `Financial calculator`
+`Excel` · `VBA` · `Python` · `SQL` · `R` · `Allvue` · `CoStar` · `Quarto` · `Git & GitHub` · `Microsoft Office`
